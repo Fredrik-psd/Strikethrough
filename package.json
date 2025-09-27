@@ -1,0 +1,17 @@
+{
+  "name": "strikethrough",
+  "title": "Strikethrough",
+  "description": "Formats selected text into strikethrough using Unicode combining characters.",
+  "author": "Fredrik-psd",
+  "categories": ["Text"],
+  "commands": [
+    {
+      "name": "strikethrough",
+      "title": "Strikethrough Selection (Unicode)",
+      "description": "Formats selected text into strikethrough text.",
+      "mode": "silent",
+      "script": "commands/strikethrough.sh"
+    }
+  ]
+}
+
